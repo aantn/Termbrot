@@ -1,1 +1,0 @@
-A buggy and incomplete cli mandelbrot visualizer in Ruby. Try './mandelbrot [0-3]'
