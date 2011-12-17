@@ -1,5 +1,5 @@
 # Termbrot
-A commandline mandelbrot visualizer, written in Ruby and totally inefficient.
+An animated commandline mandelbrot visualizer, written in Ruby and totally inefficient. 
 
 # Usage
 Try './mandelbrot [0-3]'
