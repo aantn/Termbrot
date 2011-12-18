@@ -85,7 +85,7 @@ def plot xres, yres, iterations, points
             if ARGV.length >= 1
                 pstyle = ARGV[0].to_i
             else
-                pstyle = 1
+                pstyle = 2
             end
 
             case pstyle
@@ -131,5 +131,5 @@ end
 points = nil
 $vals = []
 animate 100 do |iterations|
-    points = plot 80, 30, iterations, points
+    points = plot 110, 50, iterations, points
 end
